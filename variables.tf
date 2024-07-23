@@ -5,8 +5,8 @@ variable "tools"{
 
         }
         ci = {
-        instance_type = "t2.samll"
-        policy_resource_list = []
+            instance_type = "t2.samll"
+            policy_resource_list = []
         }
     }
 }
